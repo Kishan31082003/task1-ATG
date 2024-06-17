@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/components/*": [
+        "./components/*"
+      ],
+      "@/bootstrap/*": [
+        "./node_module/bootstrap/dist/*"
+      ]
+    }
+  }
+}
